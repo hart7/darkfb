@@ -1,4 +1,4 @@
-masukan comond dibawah ini
+#masukan comond dibawah ini
 pkg install git python2
 pip2 install --upgrade pip
 git clone https://github.com/hart7/darkfb
